@@ -1,0 +1,7 @@
+10000 --> using masking we can get last digit of any number 
+00001 --> and given number with 1 ;
+00001 
+11000
+00001
+00000--> 0
+111 --> 011 --> 001 ->> 000
